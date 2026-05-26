@@ -7,10 +7,15 @@ classes: wide
 
 <div class="pubs">
 
+<div class="pub-row">
+<div class="pub-type">Journal Articles</div>
+
+<div class="pub-list">
+
 <p><strong>2026</strong></p>
 
 <p>
-<a href="https://doi.org/10.1016/j.polgeo.2026.103539">The fiction of disaster: Forest fires and state-making in the Indian Himalaya</a><br>
+<a href="#">The fiction of disaster: Forest fires and state-making in the Indian Himalaya</a><br>
 <em>Political Geography</em>
 </p>
 
@@ -61,29 +66,74 @@ With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Mill
 </p>
 
 </div>
+</div>
+
+<div class="pub-row">
+
+<div class="pub-type">Book Chapters</div>
+
+<div class="pub-list">
+
+<p>
+<strong>2025</strong><br>
+
+<a href="https://doi.org/10.4324/9781003430995-10">Political ecology of fire: Decolonial perspectives</a><br>
+In <em>The New Routledge Handbook of Political Ecology</em><br>
+Routledge
+</p>
+
+</div>
+</div>
+
+<div class="pub-row">
+
+<div class="pub-type">Public Writing</div>
+
+<div class="pub-list">
+
+<p>
+<strong>2024</strong><br>
+
+<a href="https://doi.org/10.64628/AB.pcd4hf7e3">How traditional Himalayan burning could help prevent mega wildfires</a><br>
+<em>The Conversation</em>
+</p>
+
+</div>
+</div>
+
+</div>
 
 <style>
 
 .pubs {
 font-size: 0.92rem;
 line-height: 1.45;
-max-width: 1200px;
+max-width: 1250px;
 }
 
-.pubs p {
-margin-bottom: 16px;
+.pub-row {
+display:grid;
+grid-template-columns: 180px 1fr;
+gap:50px;
+margin-bottom:55px;
+}
+
+.pub-type {
+font-size:0.9rem;
+color:#666;
+padding-top:4px;
+}
+
+.pub-list p {
+margin-bottom:16px;
 }
 
 .pubs a {
-text-decoration: none;
+text-decoration:none;
 }
 
 .pubs em {
-color: #666;
-}
-
-.pubs strong {
-font-size: 0.95rem;
+color:#666;
 }
 
 </style>
