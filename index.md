@@ -16,9 +16,14 @@ header:
 
 # Kapil Yadav
 
-Researcher working on fire governance, political ecology, environmental humanities, and agrarian change.
+Fire, forests, commons, and political ecology.
 
-My work explores relational approaches to fire, critiques of state-led fire suppression, and community-led fire stewardship practices in India and beyond.
+Researching wildfire governance, environmental humanities, and relational approaches to fire across India and beyond.
+
+<br>
+
+<a href="/research/" class="btn btn--primary">Research</a>
+<a href="/publications/" class="btn btn--primary">Publications</a>
 
 </div>
 
@@ -26,57 +31,80 @@ My work explores relational approaches to fire, critiques of state-led fire supp
 
 ---
 
-## Research Interests
+## Current Focus
 
-- Fire governance
-- Political ecology
-- Environmental humanities
+- Fire governance and suppression politics
+- Relational ontologies and environmental humanities
 - Agrarian-environmental change
-- Relational ontologies
-- Commons and fire stewardship
+- Commons and stewardship
+- Satellite remote sensing and abstraction
 
 ---
 
-## Ongoing Work
+## Selected Themes
 
-Current projects explore wildfire governance, satellite remote sensing, commons management, and relational approaches to fire across India and Ethiopia.
+### Fire & Governance
+
+Research on state-led fire suppression, colonial forestry legacies, and community fire practices.
+
+### Relational Fire
+
+Exploring fire as relation, process, and nonhuman actor.
+
+### Environment & Commons
+
+Work on commons management, livelihoods, and ecological stewardship.
 
 ---
-
-## Writing, Art & Projects
-
-This website hosts:
-- Academic research
-- Essays and reflections
-- Collaborative projects
-- Art and visual work
-- Blog posts
 
 <style>
+
+.page__hero--overlay {
+display:none;
+}
 
 .intro-container {
 display:flex;
 align-items:center;
-gap:60px;
-margin-top:40px;
-margin-bottom:60px;
+gap:80px;
+margin-top:60px;
+margin-bottom:80px;
 flex-wrap:wrap;
 }
 
 .intro-image {
 flex:1;
-min-width:300px;
+min-width:320px;
 }
 
 .intro-image img {
 width:100%;
-max-width:450px;
+max-width:480px;
 display:block;
 }
 
 .intro-text {
 flex:1;
-min-width:300px;
+min-width:320px;
+}
+
+.intro-text h1 {
+font-size:3.2rem;
+margin-bottom:20px;
+}
+
+.intro-text p {
+font-size:1.2rem;
+line-height:1.8;
+}
+
+.btn {
+margin-right:10px;
+margin-top:20px;
+}
+
+h2 {
+margin-top:80px;
 }
 
 </style>
