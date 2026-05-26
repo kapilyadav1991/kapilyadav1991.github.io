@@ -6,34 +6,56 @@
 
 @import "minimal-mistakes";
 
-/* Typography */
+/* -----------------------------
+   Global Typography
+------------------------------ */
 
 body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
   font-size: 18px;
-  line-height: 1.85;
+  line-height: 1.9;
+  color: #222;
+  background: #fff;
 }
 
-.page__content {
-  font-size: 1.08rem;
-}
+/* -----------------------------
+   Headings
+------------------------------ */
 
 h1, h2, h3 {
-  letter-spacing: -0.03em;
-  line-height: 1.15;
+  letter-spacing: -0.04em;
+  line-height: 1.08;
+  font-weight: 600;
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 4.5rem;
+  margin-bottom: 2rem;
 }
 
 h2 {
-  margin-top: 3rem;
+  font-size: 2rem;
+  margin-top: 5rem;
+  margin-bottom: 1.5rem;
 }
 
-/* Navigation */
+/* -----------------------------
+   Paragraphs
+------------------------------ */
+
+p {
+  max-width: 680px;
+  font-size: 1.15rem;
+}
+
+/* -----------------------------
+   Navigation
+------------------------------ */
 
 .masthead {
   border-bottom: none;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
 }
 
 .greedy-nav {
@@ -42,35 +64,104 @@ h2 {
 
 .greedy-nav a {
   font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
 }
 
-/* Homepage */
+/* -----------------------------
+   Homepage Intro
+------------------------------ */
 
 .intro-container {
-  margin-top: 90px;
-  margin-bottom: 90px;
+  display: flex;
+  align-items: center;
+  gap: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  flex-wrap: wrap;
+}
+
+.intro-image {
+  flex: 1;
+  min-width: 320px;
 }
 
 .intro-image img {
-  filter: contrast(102%);
+  width: 100%;
+  max-width: 520px;
+  display: block;
 }
 
-/* Buttons */
-
-.btn {
-  border-radius: 0;
-  padding: 0.7em 1.4em;
+.intro-text {
+  flex: 1;
+  min-width: 320px;
+  max-width: 650px;
 }
 
-/* Links */
+.intro-text p {
+  font-size: 1.18rem;
+  line-height: 2;
+}
+
+/* -----------------------------
+   Width & Layout
+------------------------------ */
+
+.page {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.page__content {
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* -----------------------------
+   Links
+------------------------------ */
 
 a {
   text-decoration-thickness: 1px;
 }
 
-/* General spacing */
+a:hover {
+  text-decoration-thickness: 2px;
+}
 
-.page {
-  padding-right: 2em;
-  padding-left: 2em;
+/* -----------------------------
+   Buttons
+------------------------------ */
+
+.btn {
+  border-radius: 0;
+  padding: 0.75em 1.5em;
+  font-size: 0.9rem;
+  transition: all 0.25s ease;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+/* -----------------------------
+   Mobile
+------------------------------ */
+
+@media screen and (max-width: 768px) {
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  .intro-container {
+    gap: 50px;
+    margin-top: 50px;
+  }
+
+  .page {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
 }
