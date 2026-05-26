@@ -4,13 +4,13 @@ author_profile: false
 classes: wide
 ---
 
-<div class="home-layout">
+<div class="custom-home">
 
-<div class="home-image">
+<div class="left-image">
 <img src="/assets/images/profile.jpg">
 </div>
 
-<div class="home-text">
+<div class="right-text">
 
 <h1>Kapil Yadav</h1>
 
@@ -32,53 +32,58 @@ I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiver
 
 <style>
 
-.home-layout {
-display:flex;
-gap:70px;
-align-items:flex-start;
-margin-top:30px;
+.custom-home {
+position: relative;
+min-height: 700px;
+margin-top: 20px;
 }
 
-.home-image {
-width:340px;
-flex-shrink:0;
+.left-image {
+position: absolute;
+left: 0;
+top: 0;
+width: 340px;
 }
 
-.home-image img {
-width:100%;
-display:block;
+.left-image img {
+width: 100%;
+display: block;
 }
 
-.home-text {
-max-width:620px;
-padding-top:180px;
+.right-text {
+margin-left: 420px;
+padding-top: 20px;
+max-width: 620px;
 }
 
-.home-text h1 {
-font-size:2.4rem;
-margin-bottom:30px;
+.right-text h1 {
+font-size: 2.5rem;
+margin-bottom: 30px;
+line-height: 1.1;
 }
 
-.home-text p {
-font-size:1.05rem;
-line-height:1.9;
-margin-bottom:24px;
+.right-text p {
+font-size: 1.05rem;
+line-height: 1.9;
+margin-bottom: 24px;
 }
 
 @media screen and (max-width: 900px) {
 
-.home-layout {
-flex-wrap:wrap;
-gap:30px;
+.left-image {
+position: relative;
+width: 100%;
+max-width: 420px;
+margin-bottom: 30px;
 }
 
-.home-text {
-padding-top:0;
+.right-text {
+margin-left: 0;
+padding-top: 0;
 }
 
-.home-image {
-width:100%;
-max-width:420px;
+.custom-home {
+min-height: auto;
 }
 
 }
