@@ -1,18 +1,17 @@
 ---
-layout: splash
+layout: single
 author_profile: false
-classes: wide
-header:
-  overlay_filter: 0
 ---
 
-<div class="intro-container">
+<div style="display:flex; gap:40px; align-items:flex-start; margin-top:40px; flex-wrap:wrap;">
 
-<div class="intro-image">
-<img src="/assets/images/profile.jpg">
+<div style="flex:0 0 320px;">
+
+<img src="/assets/images/profile.jpg" style="width:320px; height:auto; display:block;">
+
 </div>
 
-<div class="intro-text">
+<div style="flex:1; min-width:300px; max-width:650px;">
 
 # Kapil Yadav
 
