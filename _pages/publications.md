@@ -117,7 +117,7 @@ z-index: 999;
 font-size: 0.9rem;
 line-height: 1.42;
 max-width: 980px;
-margin-left: -260px;
+margin-left: -315px;
 }
 
 .pub-row {
