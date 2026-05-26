@@ -113,11 +113,15 @@ backdrop-filter: blur(8px);
 z-index: 999;
 }
 
+.page__content {
+max-width: 1400px;
+padding-left: 2rem;
+}
+
 .pubs {
 font-size: 0.9rem;
 line-height: 1.42;
 max-width: 980px;
-margin-left: -315px;
 }
 
 .pub-row {
