@@ -16,46 +16,15 @@ header:
 
 # Kapil Yadav
 
-Fire, forests, commons, and political ecology.
+I am a researcher working on fire governance, political ecology, environmental humanities, and agrarian-environmental change.
 
-Researching wildfire governance, environmental humanities, and relational approaches to fire across India and beyond.
+My work explores wildfire governance, relational approaches to fire, commons and stewardship, and critiques of state-led fire suppression in India and beyond.
 
-<br>
-
-<a href="/research/" class="btn btn--primary">Research</a>
-<a href="/publications/" class="btn btn--primary">Publications</a>
+I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London.
 
 </div>
 
 </div>
-
----
-
-## Current Focus
-
-- Fire governance and suppression politics
-- Relational ontologies and environmental humanities
-- Agrarian-environmental change
-- Commons and stewardship
-- Satellite remote sensing and abstraction
-
----
-
-## Selected Themes
-
-### Fire & Governance
-
-Research on state-led fire suppression, colonial forestry legacies, and community fire practices.
-
-### Relational Fire
-
-Exploring fire as relation, process, and nonhuman actor.
-
-### Environment & Commons
-
-Work on commons management, livelihoods, and ecological stewardship.
-
----
 
 <style>
 
@@ -66,8 +35,8 @@ display:none;
 .intro-container {
 display:flex;
 align-items:center;
-gap:80px;
-margin-top:60px;
+gap:90px;
+margin-top:80px;
 margin-bottom:80px;
 flex-wrap:wrap;
 }
@@ -79,32 +48,31 @@ min-width:320px;
 
 .intro-image img {
 width:100%;
-max-width:480px;
+max-width:520px;
 display:block;
 }
 
 .intro-text {
 flex:1;
 min-width:320px;
+max-width:650px;
 }
 
 .intro-text h1 {
-font-size:3.2rem;
-margin-bottom:20px;
+font-size:4rem;
+margin-bottom:30px;
+line-height:1;
+letter-spacing:-0.03em;
 }
 
 .intro-text p {
 font-size:1.2rem;
-line-height:1.8;
+line-height:1.9;
+margin-bottom:24px;
 }
 
-.btn {
-margin-right:10px;
-margin-top:20px;
-}
-
-h2 {
-margin-top:80px;
+.page__content {
+max-width:1400px;
 }
 
 </style>
