@@ -26,26 +26,28 @@ header:
 }
 .intro-container {
   display: flex;
-  align-items: center;
-  gap: 40px;
-  height: calc(100vh - 80px);
-  overflow: hidden;
+  align-items: stretch;
+  gap: 50px;
+  margin-top: 40px;
 }
 .intro-image {
   flex: 0 0 auto;
+  display: flex;
 }
 .intro-image img {
-  width: 260px;
+  width: 320px;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
   display: block;
   border-radius: 4px;
 }
 .intro-text {
   flex: 1;
-  overflow: hidden;
 }
 .intro-text p {
-  font-size: 0.88rem;
-  line-height: 1.7;
+  font-size: 0.82rem;
+  line-height: 1.75;
   margin-bottom: 10px;
 }
 </style>
