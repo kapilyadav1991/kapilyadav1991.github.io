@@ -1,5 +1,4 @@
 ---
-title: "Publications"
 permalink: /publications/
 layout: single
 author_profile: false
@@ -66,13 +65,13 @@ With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Mill
 <style>
 
 .pubs {
-font-size: 1rem;
-line-height: 1.8;
-max-width: 1100px;
+font-size: 0.92rem;
+line-height: 1.45;
+max-width: 1200px;
 }
 
 .pubs p {
-margin-bottom: 30px;
+margin-bottom: 16px;
 }
 
 .pubs a {
@@ -81,6 +80,10 @@ text-decoration: none;
 
 .pubs em {
 color: #666;
+}
+
+.pubs strong {
+font-size: 0.95rem;
 }
 
 </style>
