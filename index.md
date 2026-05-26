@@ -1,28 +1,110 @@
 ---
-layout: single
+layout: splash
 author_profile: false
+classes: wide
+header:
+  overlay_filter: 0
 ---
 
-<table style="border:none;">
-<tr style="border:none;">
+<div class="intro-container">
 
-<td style="width:340px; vertical-align:top; border:none; padding-right:40px;">
+<div class="intro-image">
+<img src="/assets/images/profile.jpg">
+</div>
 
-<img src="/assets/images/profile.jpg" style="width:100%;">
-
-</td>
-
-<td style="vertical-align:top; border:none; padding-top:20px;">
+<div class="intro-text">
 
 # Kapil Yadav
 
-I am a researcher working on fire governance, political ecology, environmental humanities, and agrarian-environmental change.
+Fire, forests, commons, and political ecology.
 
-My work explores wildfire governance, relational approaches to fire, commons and stewardship, and critiques of state-led fire suppression in India and beyond.
+Researching wildfire governance, environmental humanities, and relational approaches to fire across India and beyond.
 
-I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London.
+<br>
 
-</td>
+<a href="/research/" class="btn btn--primary">Research</a>
+<a href="/publications/" class="btn btn--primary">Publications</a>
 
-</tr>
-</table>
+</div>
+
+</div>
+
+---
+
+## Current Focus
+
+- Fire governance and suppression politics
+- Relational ontologies and environmental humanities
+- Agrarian-environmental change
+- Commons and stewardship
+- Satellite remote sensing and abstraction
+
+---
+
+## Selected Themes
+
+### Fire & Governance
+
+Research on state-led fire suppression, colonial forestry legacies, and community fire practices.
+
+### Relational Fire
+
+Exploring fire as relation, process, and nonhuman actor.
+
+### Environment & Commons
+
+Work on commons management, livelihoods, and ecological stewardship.
+
+---
+
+<style>
+
+.page__hero--overlay {
+display:none;
+}
+
+.intro-container {
+display:flex;
+align-items:center;
+gap:80px;
+margin-top:60px;
+margin-bottom:80px;
+flex-wrap:wrap;
+}
+
+.intro-image {
+flex:1;
+min-width:320px;
+}
+
+.intro-image img {
+width:100%;
+max-width:480px;
+display:block;
+}
+
+.intro-text {
+flex:1;
+min-width:320px;
+}
+
+.intro-text h1 {
+font-size:3.2rem;
+margin-bottom:20px;
+}
+
+.intro-text p {
+font-size:1.2rem;
+line-height:1.8;
+}
+
+.btn {
+margin-right:10px;
+margin-top:20px;
+}
+
+h2 {
+margin-top:80px;
+}
+
+</style>
