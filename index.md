@@ -33,7 +33,7 @@ display:none;
 .intro-container {
 display:flex;
 align-items:center;
-gap:90px;
+gap:70px;
 margin-bottom:80px;
 flex-wrap:wrap;
 }
