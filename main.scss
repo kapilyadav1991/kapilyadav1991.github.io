@@ -1,0 +1,76 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes";
+
+/* Typography */
+
+body {
+  font-size: 18px;
+  line-height: 1.85;
+}
+
+.page__content {
+  font-size: 1.08rem;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+
+/* Navigation */
+
+.masthead {
+  border-bottom: none;
+}
+
+.greedy-nav {
+  background: white;
+}
+
+.greedy-nav a {
+  font-size: 0.95rem;
+}
+
+/* Homepage */
+
+.intro-container {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.intro-image img {
+  filter: contrast(102%);
+}
+
+/* Buttons */
+
+.btn {
+  border-radius: 0;
+  padding: 0.7em 1.4em;
+}
+
+/* Links */
+
+a {
+  text-decoration-thickness: 1px;
+}
+
+/* General spacing */
+
+.page {
+  padding-right: 2em;
+  padding-left: 2em;
+}
