@@ -109,6 +109,7 @@ Routledge
 font-size: 0.9rem;
 line-height: 1.42;
 max-width: 1280px;
+margin-left: -120px;
 }
 
 .pub-row {
