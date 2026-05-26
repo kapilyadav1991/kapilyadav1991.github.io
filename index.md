@@ -17,16 +17,21 @@ header:
 <p>My work sits across political ecology, critical agrarian studies, critical political economy, and environmental humanities. I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London and the Leverhulme Centre for Wildfires, Environment, and Society.</p>
 </div>
 </div>
+
 <style>
 .page__hero--overlay {
   display: none;
 }
-/* Pull the content block to align with masthead */
+
 #main .page__content {
   padding-top: 0 !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  padding-left: 1em !important;
+  padding-right: 1em !important;
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
+
 .intro-container {
   display: flex;
   align-items: stretch;
@@ -35,9 +40,11 @@ header:
   max-height: calc(100vh - 100px);
   overflow: hidden;
 }
+
 .intro-image {
   flex: 0 0 280px;
 }
+
 .intro-image img {
   width: 280px;
   height: 100%;
@@ -46,6 +53,7 @@ header:
   display: block;
   border-radius: 3px;
 }
+
 .intro-text {
   flex: 1;
   overflow: hidden;
@@ -53,6 +61,7 @@ header:
   flex-direction: column;
   justify-content: center;
 }
+
 .intro-text p {
   font-size: 0.78rem;
   line-height: 1.75;
