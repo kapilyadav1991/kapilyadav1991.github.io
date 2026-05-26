@@ -9,7 +9,7 @@ classes: wide
 
 <div style="flex:1; min-width:300px;">
 
-<img src="/assets/image/profile.jpg" style="width:100%; max-width:450px;" />
+<img src="/assets/images/profile.jpg" style="width:100%; max-width:450px;" />
 
 </div>
 
