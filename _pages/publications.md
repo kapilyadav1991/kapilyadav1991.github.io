@@ -116,27 +116,25 @@ z-index: 999;
 .pubs {
 font-size: 0.9rem;
 line-height: 1.42;
-max-width: 1280px;
-margin-left: -120px;
+max-width: 980px;
+margin-left: -260px;
 }
 
 .pub-row {
-display:grid;
-grid-template-columns: 90px 1fr;
-gap:140px;
+display:block;
 margin-bottom:42px;
-align-items:start;
 }
 
 .pub-type {
 font-size:0.78rem;
 color:#888;
 letter-spacing:0.02em;
+margin-bottom:26px;
+text-transform:none;
 }
 
 .pub-list p {
 margin-bottom:14px;
-max-width:900px;
 }
 
 .pubs a {
