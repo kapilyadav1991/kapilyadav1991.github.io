@@ -97,7 +97,7 @@ Yadav, K. (2025). <a href="https://doi.org/10.4324/9781003430995-10">Political e
 <div class="cv-label">Awards</div>
 <div class="cv-body">
 
-<p>Leverhulme Trust Postdoctoral Fellowship, Royal Holloway (2024–2027)</p>
+<p>Leverhulme Trust-funded Postdoctoral Fellowship, Royal Holloway (2024–2027)</p>
 <p>National Geographic Society Level I Grant, £10,000 (2021)</p>
 <p>Doctoral Studentship, King's College London — fully funded (2020–2024)</p>
 <p>Weidenfeld-Hoffman Trust Scholarship — fully funded MSc (2018–2019)</p>
