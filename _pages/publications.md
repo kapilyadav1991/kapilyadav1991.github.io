@@ -105,6 +105,14 @@ Routledge
 
 <style>
 
+.masthead {
+position: sticky;
+top: 0;
+background: rgba(255,255,255,0.95);
+backdrop-filter: blur(8px);
+z-index: 999;
+}
+
 .pubs {
 font-size: 0.9rem;
 line-height: 1.42;
@@ -123,10 +131,7 @@ align-items:start;
 .pub-type {
 font-size:0.78rem;
 color:#888;
-position:sticky;
-top:110px;
-letter-spacing:0.03em;
-text-transform:uppercase;
+letter-spacing:0.02em;
 }
 
 .pub-list p {
