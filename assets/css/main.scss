@@ -1,0 +1,11 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Remove clickable behavior from site title */
+
+.site-title {
+pointer-events: none;
+cursor: default;
+}
