@@ -33,7 +33,7 @@ display:none;
 .intro-container {
 display:flex;
 align-items:center;
-gap:70px;
+gap:55px;
 margin-bottom:80px;
 flex-wrap:wrap;
 }
@@ -50,9 +50,9 @@ display:block;
 }
 
 .intro-text {
-flex:1;
+flex:1.2;
 min-width:320px;
-max-width:560px;
+max-width:700px;
 }
 
 .intro-text h1 {
@@ -72,7 +72,4 @@ margin-bottom:24px;
 max-width:1400px;
 }
   
-.masthead {
-border-bottom: none !important;
-}
 </style>
