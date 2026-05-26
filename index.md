@@ -21,21 +21,22 @@ header:
 .page__hero--overlay {
   display: none;
 }
-.page__content {
+/* Pull the content block to align with masthead */
+#main .page__content {
   padding-top: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
 }
 .intro-container {
   display: flex;
   align-items: stretch;
   gap: 50px;
-  margin-top: 28px;
-  margin-bottom: 0;
-  max-height: calc(100vh - 90px);
+  margin-top: 32px;
+  max-height: calc(100vh - 100px);
   overflow: hidden;
 }
 .intro-image {
-  flex: 0 0 auto;
-  display: flex;
+  flex: 0 0 280px;
 }
 .intro-image img {
   width: 280px;
