@@ -66,13 +66,13 @@ With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Mill
 <style>
 
 .pubs {
-max-width: 100%;
 font-size: 1rem;
 line-height: 1.8;
+max-width: 1100px;
 }
 
 .pubs p {
-margin-bottom: 28px;
+margin-bottom: 30px;
 }
 
 .pubs a {
