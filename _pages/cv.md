@@ -101,17 +101,9 @@ Yadav, K. (2025). <a href="https://doi.org/10.4324/9781003430995-10">Political e
 <p>National Geographic Society Level I Grant, £10,000 (2021)</p>
 <p>Doctoral Studentship, King's College London — fully funded (2020–2024)</p>
 <p>Weidenfeld-Hoffman Trust Scholarship — fully funded MSc (2018–2019)</p>
-<p>WWF-India Small Grants Innovation Program, £1,000 (2016)</p>
-<p>Mother Teresa Fellowship, Ashoka University, £2,700 (2015)</p>
+<p>Mother Teresa Fellowship, Ashoka University (2015-2016)</p>
 
 </div>
 </div>
 
-<div class="cv-row">
-<div class="cv-label">Full CV</div>
-<div class="cv-body">
-<p><a href="/assets/files/kapil-yadav-cv.pdf">Download PDF →</a></p>
-</div>
-</div>
 
-</div>
