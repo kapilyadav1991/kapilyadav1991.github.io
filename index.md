@@ -45,7 +45,7 @@ min-width:320px;
 
 .intro-image img {
 width:100%;
-max-width:520px;
+max-width:390px;
 display:block;
 }
 
