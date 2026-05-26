@@ -12,8 +12,6 @@ classes: wide
 
 <div class="right-text">
 
-<h1>Kapil Yadav</h1>
-
 <p>
 I am a researcher working on fire governance, political ecology, environmental humanities, and agrarian-environmental change.
 </p>
@@ -32,17 +30,29 @@ I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiver
 
 <style>
 
+.page {
+max-width: 1250px;
+margin: auto;
+}
+
+.masthead__inner-wrap {
+max-width: 1150px;
+margin: auto;
+padding-left: 40px;
+padding-right: 40px;
+}
+
 .custom-home {
 position: relative;
 min-height: 700px;
-margin-top: 20px;
+margin-top: 40px;
 }
 
 .left-image {
 position: absolute;
-left: 0;
+left: 40px;
 top: 0;
-width: 340px;
+width: 320px;
 }
 
 .left-image img {
@@ -51,13 +61,14 @@ display: block;
 }
 
 .right-text {
-margin-left: 420px;
-padding-top: 20px;
+margin-left: 470px;
+padding-top: 0;
 max-width: 620px;
 }
 
 .right-text h1 {
 font-size: 2.5rem;
+margin-top: 0;
 margin-bottom: 30px;
 line-height: 1.1;
 }
@@ -72,6 +83,7 @@ margin-bottom: 24px;
 
 .left-image {
 position: relative;
+left: 0;
 width: 100%;
 max-width: 420px;
 margin-bottom: 30px;
@@ -79,7 +91,6 @@ margin-bottom: 30px;
 
 .right-text {
 margin-left: 0;
-padding-top: 0;
 }
 
 .custom-home {
