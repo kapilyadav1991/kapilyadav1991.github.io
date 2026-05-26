@@ -56,7 +56,7 @@ max-width:700px;
 }
 
 .intro-text h1 {
-font-size:4rem;
+font-size:3.5rem;
 margin-bottom:30px;
 line-height:1;
 letter-spacing:-0.03em;
