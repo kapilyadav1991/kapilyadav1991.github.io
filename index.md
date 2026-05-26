@@ -72,7 +72,8 @@ margin-bottom:24px;
 }
 
 .page__content {
-max-width:1400px;
+max-width:1200px;
+margin:auto;
 }
 
 </style>
