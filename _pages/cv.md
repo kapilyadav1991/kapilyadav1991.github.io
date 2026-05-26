@@ -7,16 +7,9 @@ author_profile: false
 
 # Curriculum Vitae
 
-You can upload a PDF version of your CV here.
+A downloadable PDF CV will be added here.
 
 ## Current Position
 
 Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity  
 Royal Holloway, University of London
-
-## Research Interests
-
-- Fire governance
-- Political ecology
-- Environmental humanities
-- Agrarian change
