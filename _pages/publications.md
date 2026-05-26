@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Publications"
 permalink: /publications/
 layout: single
 author_profile: false
@@ -8,9 +8,9 @@ classes: wide
 
 <div class="pubs">
 
-<div class="pub-year">2026</div>
+### 2026
 
-[The fiction of disaster: Forest fires and state-making in the Indian Himalaya](https://doi.org/10.1016/j.polgeo.2026.103539)  
+[The fiction of disaster: Forest fires and state-making in the Indian Himalaya](#)  
 *Political Geography*
 
 [Agrarianising the forest fire crisis: Rethinking forest fires from the grassroots in the Uttarakhand Himalaya](https://doi.org/10.1080/03066150.2025.2606880)  
@@ -20,11 +20,13 @@ classes: wide
 With Abigail Croker, Adriana Ford, William Hayes, Yiannis Kountouris, James Millington, Jayalaxshmi Mistry, Monika Moreu Vicente, Ol Perkins, Kate Schreckenberg, Cathy Smith, Maximilian Stiefel and Michel Valette  
 *Nature Communications*
 
-[Mapping Fire Management: A Spatial Social Network Approach](https://doi.org/10.1002/geo2.70068)  
+[Mapping Fire Management: A Spatial Social Network Approach](#)  
 With Christoph Neger, Cody Evers and Octavio Romero Cuapio  
 *Geo: Geography and Environment*
 
-<div class="pub-year">2025</div>
+---
+
+### 2025
 
 [Adding lines along pixels: Remote sensing, traditional knowledge, and human–fire interactions in Ethiopia and India](https://doi.org/10.1002/geo2.70050)  
 With Henry Thompson  
@@ -33,13 +35,17 @@ With Henry Thompson
 [Living with fire: A relational approach to fire in the Uttarakhand Himalaya](https://doi.org/10.5334/ijc.1503)  
 *International Journal of the Commons*
 
-<div class="pub-year">2024</div>
+---
+
+### 2024
 
 [How policy interventions influence burning to meet cultural and small-scale livelihood objectives](https://doi.org/10.5751/ES-14850-290135)  
 With Cathy Smith, Jacob Ainscough, Rahinatu S. Alare, Abigail R. Croker, Kayla M. De Freitas, James D.A. Millington, Jayalaxshmi Mistry, Ol Perkins, Kate Schreckenberg, Francisco Seijo and Henry J. Thompson  
 *Ecology and Society*
 
-<div class="pub-year">2021</div>
+---
+
+### 2021
 
 [Modelling human-fire interactions: Combining alternative perspectives and approaches](https://doi.org/10.3389/fenvs.2021.649835)  
 With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Millington, Jayalaxshmi Mistry, Oliver Perkins, Sam S. Rabin, Guillermo Rein, Kate Schreckenberg, Cathy Smith and Thomas E. L. Smith  
@@ -49,50 +55,30 @@ With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Mill
 
 <style>
 
-.initial-content {
-max-width: 1400px;
-margin: 0 auto;
-}
-
-.page__title {
-display:none;
-}
-
-.page__content {
-padding-left: 0;
-padding-right: 0;
-}
-
 .pubs {
-max-width: 980px;
-font-size: 1rem;
-line-height: 1.8;
+max-width: 1050px;
+font-size: 1.05rem;
+line-height: 2;
+}
+
+.pubs h3 {
+margin-top: 70px;
+margin-bottom: 35px;
+font-size: 1.2rem;
+letter-spacing: 0.02em;
 }
 
 .pubs p {
-margin-bottom: 26px;
-}
-
-.pub-year {
-margin-top: 55px;
-margin-bottom: 24px;
-font-size: 0.92rem;
-letter-spacing: 0.08em;
-text-transform: uppercase;
-color: #777;
+margin-bottom: 32px;
 }
 
 .pubs a {
 text-decoration: none;
-font-size: 1.08rem;
-line-height: 1.5;
 }
 
 .pubs em {
 display:block;
 margin-top:4px;
-margin-bottom:18px;
-font-size:0.98rem;
 color:#666;
 }
 
