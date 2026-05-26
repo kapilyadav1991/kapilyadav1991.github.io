@@ -2,28 +2,45 @@
 layout: home
 author_profile: false
 title: "Kapil Yadav"
+classes: wide
 ---
+
+<div style="display:flex; align-items:center; gap:50px; flex-wrap:wrap; margin-top:40px; margin-bottom:60px;">
+
+<div style="flex:1; min-width:300px;">
+
+<img src="/assets/images/profile.jpg" style="width:100%; max-width:450px;" />
+
+</div>
+
+<div style="flex:1; min-width:300px;">
 
 # Kapil Yadav
 
 Researcher working on fire governance, political ecology, environmental humanities, and agrarian change.
 
+My work explores relational approaches to fire, critiques of state-led fire suppression, and community-led fire stewardship practices in India and beyond.
+
+</div>
+
+</div>
+
 ---
 
-## Current Research Interests
+## Research Interests
 
 - Fire governance
 - Political ecology
 - Environmental humanities
 - Agrarian-environmental change
-- Relational approaches to fire
+- Relational ontologies
 - Commons and fire stewardship
 
 ---
 
 ## Ongoing Work
 
-My work explores the politics of wildfire governance, critiques of fire suppression, and community-led fire practices in India and beyond.
+Current projects explore wildfire governance, satellite remote sensing, commons management, and relational approaches to fire across India and Ethiopia.
 
 ---
 
@@ -32,6 +49,6 @@ My work explores the politics of wildfire governance, critiques of fire suppress
 This website hosts:
 - Academic research
 - Essays and reflections
-- Ongoing collaborative projects
+- Collaborative projects
 - Art and visual work
 - Blog posts
