@@ -9,17 +9,6 @@
   backdrop-filter: blur(6px);
 }
 
-// ── Pull content left to align with masthead ────────────
-// The contrast skin centres .page__content with auto margins.
-// This overrides that for the publications page only.
-body.layout--single.wide .page__content,
-body.layout--single .page__content {
-  max-width: 780px;
-  margin-left: 2em !important;
-  margin-right: auto;
-  padding-left: 0;
-}
-
 // ── Publications wrapper ─────────────────────────────────
 .pubs {
   font-size: 0.88rem;
@@ -87,6 +76,17 @@ body.layout--single .page__content {
 .pubs em {
   color: #777;
   font-style: italic;
+}
+
+// ── Force alignment against contrast skin ───────────────
+
+#main {
+  .page__content {
+    margin-left: 0 !important;
+    padding-left: 2em !important;
+    max-width: 820px !important;
+    float: none !important;
+  }
 }
 
 // ── CV page ─────────────────────────────────────────────
