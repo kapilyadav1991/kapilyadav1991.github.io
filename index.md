@@ -14,6 +14,8 @@ header:
 
 <div class="intro-text">
 
+# Kapil Yadav
+
 I am a researcher working on fire governance, political ecology, environmental humanities, and agrarian-environmental change.
 
 My work explores wildfire governance, relational approaches to fire, commons and stewardship, and critiques of state-led fire suppression in India and beyond.
@@ -28,6 +30,11 @@ I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiver
 
 .page__hero--overlay {
 display:none;
+}
+
+.page__content {
+max-width:1200px;
+margin:0 auto;
 }
 
 .intro-container {
@@ -53,6 +60,7 @@ display:block;
 flex:1;
 min-width:320px;
 max-width:650px;
+padding-top:10px;
 }
 
 .intro-text h1 {
@@ -66,10 +74,6 @@ letter-spacing:-0.03em;
 font-size:1.2rem;
 line-height:1.9;
 margin-bottom:24px;
-}
-
-.page__content {
-max-width:1400px;
 }
 
 </style>
