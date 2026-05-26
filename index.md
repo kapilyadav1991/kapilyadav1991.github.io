@@ -32,11 +32,6 @@ I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiver
 display:none;
 }
 
-.page__content {
-max-width:1200px;
-margin:0 auto;
-}
-
 .intro-container {
 display:flex;
 align-items:center;
@@ -60,7 +55,6 @@ display:block;
 flex:1;
 min-width:320px;
 max-width:650px;
-padding-top:10px;
 }
 
 .intro-text h1 {
@@ -74,6 +68,10 @@ letter-spacing:-0.03em;
 font-size:1.2rem;
 line-height:1.9;
 margin-bottom:24px;
+}
+
+.page__content {
+max-width:1400px;
 }
 
 </style>
