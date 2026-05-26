@@ -6,15 +6,13 @@ header:
   overlay_filter: 0
 ---
 
-<div class="intro-container">
+<div class="intro-container" style="margin-top:60px;">
 
 <div class="intro-image">
 <img src="/assets/images/profile.jpg">
 </div>
 
 <div class="intro-text">
-
-# Kapil Yadav
 
 I am a researcher working on fire governance, political ecology, environmental humanities, and agrarian-environmental change.
 
@@ -36,7 +34,6 @@ display:none;
 display:flex;
 align-items:center;
 gap:90px;
-margin-top:80px;
 margin-bottom:80px;
 flex-wrap:wrap;
 }
