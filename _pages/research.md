@@ -5,16 +5,25 @@ layout: single
 author_profile: false
 ---
 
-# Ongoing Projects
+# Research
 
-## Fire Governance in India
+My research explores fire governance, political ecology, environmental humanities, and agrarian-environmental change.
 
-Research on wildfire governance, commons management, and fire stewardship practices.
+## Themes
 
-## Relational Approaches to Fire
+- Fire governance and wildfire politics
+- Relational approaches to fire
+- Commons and stewardship
+- Environmental humanities
+- Political ecology
+- Indigenous and traditional fire practices
+- Remote sensing and abstraction
 
-Collaborative work exploring fire beyond suppression paradigms.
+## Current Work
 
-## Satellite Remote Sensing & Fire
-
-Critiques of abstraction in fire mapping and remote sensing methodologies.
+Current projects examine:
+- Fire governance in India
+- Critiques of state-led fire suppression
+- Community fire stewardship
+- Satellite remote sensing and fire mapping
+- Plantation landscapes and the Plantationocene
