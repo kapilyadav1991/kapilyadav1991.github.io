@@ -10,7 +10,7 @@ classes: wide
 <div class="cv-row">
 <div class="cv-label"> </div>
 <div class="cv-body">
-<p>My work sits across political ecology, critical agrarian studies, and critical political economy. Below are the broad lines of enquiry I pursue.</p>
+<p>My work sits across political ecology, agrarian studies, and environmental humanities. Below are the broad lines of enquiry I pursue.</p>
 </div>
 </div>
 
