@@ -1,40 +1,36 @@
 // _sass/publications.scss
-// Clean publications layout for kapil-yadav.com
-// Works with Minimal Mistakes `wide` layout + gem-based theme
 
-// --------------------------------------------------
-// Sticky masthead (moved here from inline style)
-// --------------------------------------------------
-
+// ── Masthead ────────────────────────────────────────────
 .masthead {
   position: sticky;
   top: 0;
+  z-index: 999;
   background: rgba(255, 255, 255, 0.97);
   backdrop-filter: blur(6px);
-  z-index: 999;
 }
 
-// --------------------------------------------------
-// Publications wrapper
-// DO NOT set padding-left or margin-left here.
-// The `wide` layout's .page__content already handles
-// the outer container — leave it alone.
-// --------------------------------------------------
+// ── Pull content left to align with masthead ────────────
+// The contrast skin centres .page__content with auto margins.
+// This overrides that for the publications page only.
+.layout--single .page__content {
+  max-width: 860px;
+  margin-left: 0;
+  padding-left: 2em;
+}
 
+// ── Publications wrapper ─────────────────────────────────
 .pubs {
   font-size: 0.88rem;
-  line-height: 1.6;
+  line-height: 1.65;
+  color: #222;
 }
 
-// --------------------------------------------------
-// Each category block (Journal Articles, etc.)
-// --------------------------------------------------
-
+// ── Category blocks ──────────────────────────────────────
 .pub-row {
   display: block;
-  margin-bottom: 3rem;
-  padding-top: 1.5rem;
-  border-top: 1px solid #e4e4e4;
+  margin-bottom: 2.8rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid #ddd;
 
   &:first-child {
     border-top: none;
@@ -42,53 +38,51 @@
   }
 }
 
-// --------------------------------------------------
-// Category label (Journal Articles / Book Chapters)
-// --------------------------------------------------
-
+// ── Category label: Journal Articles, Book Chapters etc. ─
 .pub-type {
-  font-size: 0.7rem;
-  color: #aaa;
-  letter-spacing: 0.08em;
+  font-size: 0.68rem;
+  color: #999;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  margin-bottom: 1.4rem;
+  margin-bottom: 1.2rem;
 }
 
-// --------------------------------------------------
-// Individual publication entries
-// --------------------------------------------------
-
+// ── Publication entries ───────────────────────────────────
 .pub-list p {
-  margin-bottom: 1rem;
-  max-width: 660px; // line length for readability
+  margin-bottom: 0.95rem;
+  max-width: 640px;
 }
 
+// Year headings — clearly lighter than the links
+.pubs strong {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #aaa;
+  margin-top: 1.4rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: 0.04em;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+// Links — dark, understated, not teal
 .pubs a {
-  color: inherit;
+  color: #1a1a1a;
   text-decoration: none;
   border-bottom: 1px solid #ccc;
   transition: border-color 0.15s ease;
 
   &:hover {
-    border-bottom-color: #333;
+    border-bottom-color: #555;
+    color: #000;
   }
 }
 
+// Journal name
 .pubs em {
   color: #777;
   font-style: italic;
-}
-
-// Year headings (the <strong> tags like 2026, 2025)
-.pubs strong {
-  display: block;
-  font-size: 0.78rem;
-  font-weight: 600;
-  color: #555;
-  margin-top: 1.6rem;
-  margin-bottom: 0.4rem;
-
-  &:first-child {
-    margin-top: 0;
-  }
 }
