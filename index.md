@@ -15,7 +15,8 @@ header:
 <div class="intro-text">
 <p>I am a researcher of fire — though I do not think of myself as a fire researcher.</p>
 
-<p>Fire is a companion. It helps me make sense of the world. It is a lens through which I examine power, state-society relations, human-nature relations, and the science-policy interface. When a forest burns, what becomes visible are not just flames but the politics of land, the limits of the state, the labour of those who live in forests, and the failures of the institutions that govern them.</p>
+<p>It is a lens through which I examine power, state-society relations, human-nature relations, and the science-policy interface. When a forest burns, what becomes visible are not just flames but the politics of land, the limits of the state, the labour of those who live in forests, and the failures of the institutions that govern them.</p>
+<p>In a way, Fire is a companion, and it helps me make sense of the world. </p>
 
 <p> My work sits across political ecology, critical agrarian studies, critical political economy, and environmental humanities. I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London and the Leverhulme Centre for Wildfires, Environment, and Society.</p>
 </div>
