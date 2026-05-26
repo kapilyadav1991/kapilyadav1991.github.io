@@ -88,3 +88,62 @@ body.layout--single .page__content {
   color: #777;
   font-style: italic;
 }
+
+// ── CV page ─────────────────────────────────────────────
+
+.cv {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: #222;
+}
+
+.cv-row {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 0 2.5rem;
+  margin-bottom: 2.4rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid #ddd;
+
+  &:first-child {
+    border-top: none;
+    padding-top: 0;
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.cv-label {
+  font-size: 0.68rem;
+  color: #999;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding-top: 0.15rem;
+}
+
+.cv-body p {
+  margin-bottom: 0.9rem;
+  max-width: 620px;
+}
+
+.cv-body a {
+  color: #1a1a1a !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid #bbb;
+
+  &:hover {
+    border-bottom-color: #444;
+  }
+}
+
+.cv-body em {
+  color: #777;
+  font-style: italic;
+}
+
+.cv-body strong {
+  font-weight: 600;
+  color: #111;
+}
