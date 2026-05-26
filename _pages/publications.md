@@ -10,7 +10,7 @@ classes: wide
 
 <div class="pub-year">2026</div>
 
-[The fiction of disaster: Forest fires and state-making in the Indian Himalaya](#)  
+[The fiction of disaster: Forest fires and state-making in the Indian Himalaya](https://doi.org/10.1016/j.polgeo.2026.103539)  
 *Political Geography*
 
 [Agrarianising the forest fire crisis: Rethinking forest fires from the grassroots in the Uttarakhand Himalaya](https://doi.org/10.1080/03066150.2025.2606880)  
@@ -20,7 +20,7 @@ classes: wide
 With Abigail Croker, Adriana Ford, William Hayes, Yiannis Kountouris, James Millington, Jayalaxshmi Mistry, Monika Moreu Vicente, Ol Perkins, Kate Schreckenberg, Cathy Smith, Maximilian Stiefel and Michel Valette  
 *Nature Communications*
 
-[Mapping Fire Management: A Spatial Social Network Approach](#)  
+[Mapping Fire Management: A Spatial Social Network Approach](https://doi.org/10.1002/geo2.70068)  
 With Christoph Neger, Cody Evers and Octavio Romero Cuapio  
 *Geo: Geography and Environment*
 
@@ -49,45 +49,50 @@ With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Mill
 
 <style>
 
-.page {
+.initial-content {
 max-width: 1400px;
-}
-
-.page__content {
-max-width: 1100px;
-padding-left: 0;
+margin: 0 auto;
 }
 
 .page__title {
 display:none;
 }
 
+.page__content {
+padding-left: 0;
+padding-right: 0;
+}
+
 .pubs {
+max-width: 980px;
 font-size: 1rem;
-line-height: 1.7;
-max-width: 900px;
+line-height: 1.8;
 }
 
 .pubs p {
-margin-bottom: 24px;
+margin-bottom: 26px;
 }
 
 .pub-year {
-margin-top: 50px;
-margin-bottom: 20px;
-font-size: 0.95rem;
+margin-top: 55px;
+margin-bottom: 24px;
+font-size: 0.92rem;
 letter-spacing: 0.08em;
+text-transform: uppercase;
 color: #777;
 }
 
 .pubs a {
 text-decoration: none;
+font-size: 1.08rem;
+line-height: 1.5;
 }
 
 .pubs em {
 display:block;
-margin-top:2px;
+margin-top:4px;
 margin-bottom:18px;
+font-size:0.98rem;
 color:#666;
 }
 
