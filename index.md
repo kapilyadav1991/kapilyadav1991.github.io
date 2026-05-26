@@ -67,9 +67,5 @@ font-size:1.2rem;
 line-height:1.9;
 margin-bottom:24px;
 }
-
-.page__content {
-max-width:1400px;
-}
   
 </style>
