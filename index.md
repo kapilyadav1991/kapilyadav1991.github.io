@@ -16,66 +16,15 @@ header:
 
 # Kapil Yadav
 
-Fire, forests, commons, and political ecology.
+I am a researcher working on fire governance, political ecology, environmental humanities, and agrarian-environmental change.
 
-Researching wildfire governance, environmental humanities, and relational approaches to fire across India and beyond.
+My work explores wildfire governance, relational approaches to fire, commons and stewardship, and critiques of state-led fire suppression in India and beyond.
 
-<br>
-
-<a href="/research/" class="btn btn--primary">Research</a>
-<a href="/publications/" class="btn btn--primary">Publications</a>
+I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London.
 
 </div>
 
 </div>
-
----
-
-# Research Themes
-
-<div class="feature-grid">
-
-<div class="feature-card">
-
-## Fire & Governance
-
-Research on wildfire governance, suppression politics, colonial forestry legacies, and community fire stewardship practices.
-
-</div>
-
-<div class="feature-card">
-
-## Political Ecology
-
-Work on agrarian-environmental change, commons, livelihoods, and environmental governance.
-
-</div>
-
-<div class="feature-card">
-
-## Environmental Humanities
-
-Exploring relational ontologies, fire as process, and more-than-human approaches to landscape.
-
-</div>
-
-</div>
-
----
-
-# Current Work
-
-Current projects examine wildfire governance, remote sensing, commons management, and relational approaches to fire across India and Ethiopia.
-
-<a href="/research/" class="btn btn--primary">Explore Research</a>
-
----
-
-# Writing & Publications
-
-Academic writing, essays, reflections, collaborative work, and experimental forms of environmental writing.
-
-<a href="/publications/" class="btn btn--primary">View Publications</a>
 
 <style>
 
@@ -86,9 +35,9 @@ display:none;
 .intro-container {
 display:flex;
 align-items:center;
-gap:80px;
-margin-top:60px;
-margin-bottom:100px;
+gap:90px;
+margin-top:80px;
+margin-bottom:80px;
 flex-wrap:wrap;
 }
 
@@ -99,51 +48,31 @@ min-width:320px;
 
 .intro-image img {
 width:100%;
-max-width:500px;
+max-width:520px;
 display:block;
 }
 
 .intro-text {
 flex:1;
 min-width:320px;
+max-width:650px;
 }
 
 .intro-text h1 {
-font-size:3.5rem;
-margin-bottom:20px;
-line-height:1.1;
+font-size:4rem;
+margin-bottom:30px;
+line-height:1;
+letter-spacing:-0.03em;
 }
 
 .intro-text p {
 font-size:1.2rem;
-line-height:1.8;
+line-height:1.9;
+margin-bottom:24px;
 }
 
-.feature-grid {
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:30px;
-margin-top:40px;
-margin-bottom:60px;
-}
-
-.feature-card {
-padding:30px;
-border:1px solid #e5e5e5;
-background:#fafafa;
-}
-
-.feature-card h2 {
-margin-top:0;
-}
-
-.btn {
-margin-top:20px;
-margin-right:10px;
-}
-
-h1,h2 {
-letter-spacing:-0.02em;
+.page__content {
+max-width:1400px;
 }
 
 </style>
