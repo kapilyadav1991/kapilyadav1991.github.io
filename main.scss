@@ -1,4 +1,9 @@
 ---
+# Only the main.scss needs front matter (the dashes are required).
 ---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default"; // adjust to your skin
 @import "minimal-mistakes";
+@import "publications";
