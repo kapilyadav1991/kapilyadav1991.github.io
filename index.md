@@ -13,10 +13,15 @@ header:
 </div>
 
 <div class="intro-text">
-<p>I am a researcher of fire — though I do not think of myself as a fire researcher.</p>
+<p>I am a researcher of fire — though I question myself as a fire researcher.</p>
 
-<p>It is a lens through which I examine power, state-society relations, human-nature relations, and the science-policy interface. When a forest burns, what becomes visible are not just flames but the politics of land, the limits of the state, the labour of those who live in forests, and the failures of the institutions that govern them.</p>
-<p>In a way, Fire is a companion, and it helps me make sense of the world. </p>
+<p>This is because I do not study fire for fire's sake. For me, fire is a lens through which I examine power, state-society relations, human-nature relations, and the science-policy interface. 
+  
+Fires are not moments of crisis or destruction; they also become a call to action — one that empowers certain actors and marginalises others. Those empowered in the name of controlling fire are often driven by political and economic interests that have little to do with fire itself. Fire politics, I have come to understand, is land politics.</p>
+
+<p>In this politics, I think from the side of marginalised forest-dwelling and urban communities — to ask questions about justice, about who bears the costs of fire and who benefits from its governance.
+  
+<p>In a way, fire is a companion; it helps me make sense of the world. </p>
 
 <p> My work sits across political ecology, critical agrarian studies, critical political economy, and environmental humanities. I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London and the Leverhulme Centre for Wildfires, Environment, and Society.</p>
 </div>
