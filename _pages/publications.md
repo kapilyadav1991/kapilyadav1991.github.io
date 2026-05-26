@@ -15,7 +15,7 @@ classes: wide
 <p><strong>2026</strong></p>
 
 <p>
-<a href="#">The fiction of disaster: Forest fires and state-making in the Indian Himalaya</a><br>
+<a href="https://doi.org/10.1016/j.polgeo.2026.103539">The fiction of disaster: Forest fires and state-making in the Indian Himalaya</a><br>
 <em>Political Geography</em>
 </p>
 
