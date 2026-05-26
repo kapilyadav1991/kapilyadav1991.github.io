@@ -25,5 +25,3 @@ I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiver
 </div>
 
 </div>
-
-
