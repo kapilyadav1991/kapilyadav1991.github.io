@@ -1,136 +1,75 @@
-// _sass/publications.scss
-
-// --------------------------------------------------
-// Sticky masthead
-// --------------------------------------------------
-
-.masthead {
-  position: sticky;
-  top: 0;
-  background: rgba(255, 255, 255, 0.97);
-  backdrop-filter: blur(6px);
-  z-index: 999;
-}
-
-// --------------------------------------------------
-// Pull publications content to align with masthead
-// The contrast skin adds excess left padding on wide
-// layout — this corrects it without touching the
-// outer wrapper's width or breaking responsiveness
-// --------------------------------------------------
-
-.layout--single.wide .page__content,
-.page__content {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-// --------------------------------------------------
-// Publications wrapper
-// --------------------------------------------------
-
-.pubs {
-  font-size: 0.88rem;
-  line-height: 1.65;
-  max-width: 680px; // keeps line length readable
-}
-
-// --------------------------------------------------
-// Category block
-// --------------------------------------------------
-
-.pub-row {
-  display: block;
-  margin-bottom: 3rem;
-  padding-top: 1.6rem;
-  border-top: 1px solid #e0e0e0;
-
-  &:first-child {
-    border-top: none;
-    padding-top: 0;
-  }
-}
-
-// --------------------------------------------------
-// Category label — small, grey, uppercase
-// --------------------------------------------------
-
-.pub-type {
-  font-size: 0.68rem;
-  color: #999;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  margin-bottom: 1.4rem;
-  font-weight: 400;
-}
-
-// --------------------------------------------------
-// Year headings — slightly larger than body,
-// clearly separated from the category label
-// --------------------------------------------------
-
-.pubs strong {
-  display: block;
-  font-size: 0.78rem;
-  font-weight: 600;
-  color: #333;
-  margin-top: 1.8rem;
-  margin-bottom: 0.5rem;
-
-  &:first-child {
-    margin-top: 0;
-  }
-}
-
-// --------------------------------------------------
-// Individual entries
-// --------------------------------------------------
-
-.pub-list p {
-  margin-bottom: 1rem;
-}
-
-// --------------------------------------------------
-// Links — neutral, not the contrast skin's teal
-// --------------------------------------------------
-
-.pubs a {
-  color: #222;
-  text-decoration: none;
-  border-bottom: 1px solid #bbb;
-  transition: border-color 0.15s ease;
-
-  &:hover {
-    border-bottom-color: #222;
-    color: #000;
-  }
-
-  &:visited {
-    color: #444;
-  }
-}
-
-// --------------------------------------------------
-// Journal name
-// --------------------------------------------------
-
-.pubs em {
-  color: #777;
-  font-style: italic;
-}
-
-// --------------------------------------------------
-// Responsive — on small screens restore some padding
-// --------------------------------------------------
-
-@media (max-width: 768px) {
-  .layout--single.wide .page__content,
-  .page__content {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  .pubs {
-    max-width: 100%;
-  }
-}
+---
+permalink: /publications/
+layout: single
+author_profile: false
+classes: wide
+---
+<div class="pubs">
+<div class="pub-row">
+<div class="pub-type">Journal Articles</div>
+<div class="pub-list">
+<p><strong>2026</strong></p>
+<p>
+<a href="https://doi.org/10.1016/j.polgeo.2026.103539">The fiction of disaster: Forest fires and state-making in the Indian Himalaya</a><br>
+<em>Political Geography</em>
+</p>
+<p>
+<a href="https://doi.org/10.1080/03066150.2025.2606880">Agrarianising the forest fire crisis: Rethinking forest fires from the grassroots in the Uttarakhand Himalaya</a><br>
+<em>Journal of Peasant Studies</em>
+</p>
+<p>
+<a href="https://doi.org/10.1038/s41467-026-70040-y">The Kananaskis Wildfire Charter: A good start</a><br>
+With Abigail Croker, Adriana Ford, William Hayes, Yiannis Kountouris, James Millington, Jayalaxshmi Mistry, Monika Moreu Vicente, Ol Perkins, Kate Schreckenberg, Cathy Smith, Maximilian Stiefel and Michel Valette<br>
+<em>Nature Communications</em>
+</p>
+<p>
+<a href="#">Mapping Fire Management: A Spatial Social Network Approach</a><br>
+With Christoph Neger, Cody Evers and Octavio Romero Cuapio<br>
+<em>Geo: Geography and Environment</em>
+</p>
+<p><strong>2025</strong></p>
+<p>
+<a href="https://doi.org/10.1002/geo2.70050">Adding lines along pixels: Remote sensing, traditional knowledge, and human–fire interactions in Ethiopia and India</a><br>
+With Henry Thompson<br>
+<em>Geo: Geography and Environment</em>
+</p>
+<p>
+<a href="https://doi.org/10.5334/ijc.1503">Living with fire: A relational approach to fire in the Uttarakhand Himalaya</a><br>
+<em>International Journal of the Commons</em>
+</p>
+<p><strong>2024</strong></p>
+<p>
+<a href="https://doi.org/10.5751/ES-14850-290135">How policy interventions influence burning to meet cultural and small-scale livelihood objectives</a><br>
+With Cathy Smith, Jacob Ainscough, Rahinatu S. Alare, Abigail R. Croker, Kayla M. De Freitas, James D.A. Millington, Jayalaxshmi Mistry, Ol Perkins, Kate Schreckenberg, Francisco Seijo and Henry J. Thompson<br>
+<em>Ecology and Society</em>
+</p>
+<p><strong>2021</strong></p>
+<p>
+<a href="https://doi.org/10.3389/fenvs.2021.649835">Modelling human-fire interactions: Combining alternative perspectives and approaches</a><br>
+With Adriana E. S. Ford, Sandy P. Harrison, Yiannis Kountouris, James D. A. Millington, Jayalaxshmi Mistry, Oliver Perkins, Sam S. Rabin, Guillermo Rein, Kate Schreckenberg, Cathy Smith and Thomas E. L. Smith<br>
+<em>Frontiers in Environmental Science</em>
+</p>
+</div>
+</div>
+<div class="pub-row">
+<div class="pub-type">Book Chapters</div>
+<div class="pub-list">
+<p>
+<strong>2025</strong><br>
+<a href="https://doi.org/10.4324/9781003430995-10">Political ecology of fire: Decolonial perspectives</a><br>
+In <em>The New Routledge Handbook of Political Ecology</em><br>
+Routledge
+</p>
+</div>
+</div>
+<div class="pub-row">
+<div class="pub-type">Public Writing</div>
+<div class="pub-list">
+<p>
+<strong>2024</strong><br>
+<a href="https://doi.org/10.64628/AB.pcd4hf7e3">How traditional Himalayan burning could help prevent mega wildfires</a><br>
+<em>The Conversation</em>
+</p>
+</div>
+</div>
+</div>
