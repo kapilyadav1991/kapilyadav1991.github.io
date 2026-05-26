@@ -121,7 +121,7 @@ padding-left: 2rem;
 .pubs {
 font-size: 0.9rem;
 line-height: 1.42;
-max-width: 980px;
+max-width: 1200px;
 }
 
 .pub-row {
@@ -139,6 +139,7 @@ text-transform:none;
 
 .pub-list p {
 margin-bottom:14px;
+max-width:980px;
 }
 
 .pubs a {
