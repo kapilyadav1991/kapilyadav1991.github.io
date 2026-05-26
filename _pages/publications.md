@@ -108,28 +108,29 @@ Routledge
 .pubs {
 font-size: 0.9rem;
 line-height: 1.42;
-max-width: 1180px;
-margin-left: 0;
+max-width: 1280px;
 }
 
 .pub-row {
 display:grid;
-grid-template-columns: 140px 1fr;
-gap:32px;
+grid-template-columns: 90px 1fr;
+gap:140px;
 margin-bottom:42px;
 align-items:start;
 }
 
 .pub-type {
-font-size:0.82rem;
-color:#777;
+font-size:0.78rem;
+color:#888;
 position:sticky;
 top:110px;
-letter-spacing:0.02em;
+letter-spacing:0.03em;
+text-transform:uppercase;
 }
 
 .pub-list p {
 margin-bottom:14px;
+max-width:900px;
 }
 
 .pubs a {
@@ -141,7 +142,7 @@ color:#666;
 }
 
 .pubs strong {
-font-size:0.9rem;
+font-size:0.92rem;
 font-weight:600;
 }
 
