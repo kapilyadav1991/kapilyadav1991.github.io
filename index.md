@@ -52,7 +52,7 @@ display:block;
 .intro-text {
 flex:1;
 min-width:320px;
-max-width:650px;
+max-width:560px;
 }
 
 .intro-text h1 {
@@ -71,5 +71,8 @@ margin-bottom:24px;
 .page__content {
 max-width:1400px;
 }
-
+  
+.masthead {
+border-bottom: none !important;
+}
 </style>
