@@ -1,4 +1,7 @@
 main:
+  - title: "About Me"
+    url: /
+
   - title: "CV"
     url: /cv/
 
