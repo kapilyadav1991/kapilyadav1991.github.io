@@ -5,11 +5,20 @@ layout: single
 author_profile: false
 ---
 
-# Writing & Essays
+# Publications
 
-This section hosts:
-- Essays
-- Reflections
-- Experimental writing
-- Non-academic work
-- Visual and artistic projects
+## Journal Articles
+
+A selected list of publications will appear here.
+
+---
+
+## Working Papers
+
+Current writing projects and manuscripts in progress.
+
+---
+
+## Essays & Other Writing
+
+Links to essays, reflections, and public-facing work.
