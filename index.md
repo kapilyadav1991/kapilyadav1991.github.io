@@ -1,19 +1,18 @@
 ---
-layout: home
+layout: splash
 author_profile: false
-title: "Kapil Yadav"
 classes: wide
+header:
+  overlay_filter: 0
 ---
 
-<div style="display:flex; align-items:center; gap:50px; flex-wrap:wrap; margin-top:40px; margin-bottom:60px;">
+<div class="intro-container">
 
-<div style="flex:1; min-width:300px;">
-
-<img src="/assets/images/profile.jpg" style="width:100%; max-width:450px;" />
-
+<div class="intro-image">
+<img src="/assets/images/profile.jpg">
 </div>
 
-<div style="flex:1; min-width:300px;">
+<div class="intro-text">
 
 # Kapil Yadav
 
@@ -52,3 +51,32 @@ This website hosts:
 - Collaborative projects
 - Art and visual work
 - Blog posts
+
+<style>
+
+.intro-container {
+display:flex;
+align-items:center;
+gap:60px;
+margin-top:40px;
+margin-bottom:60px;
+flex-wrap:wrap;
+}
+
+.intro-image {
+flex:1;
+min-width:300px;
+}
+
+.intro-image img {
+width:100%;
+max-width:450px;
+display:block;
+}
+
+.intro-text {
+flex:1;
+min-width:300px;
+}
+
+</style>
