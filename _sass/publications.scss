@@ -1,0 +1,94 @@
+// _sass/publications.scss
+// Clean publications layout for kapil-yadav.com
+// Works with Minimal Mistakes `wide` layout + gem-based theme
+
+// --------------------------------------------------
+// Sticky masthead (moved here from inline style)
+// --------------------------------------------------
+
+.masthead {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.97);
+  backdrop-filter: blur(6px);
+  z-index: 999;
+}
+
+// --------------------------------------------------
+// Publications wrapper
+// DO NOT set padding-left or margin-left here.
+// The `wide` layout's .page__content already handles
+// the outer container — leave it alone.
+// --------------------------------------------------
+
+.pubs {
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+
+// --------------------------------------------------
+// Each category block (Journal Articles, etc.)
+// --------------------------------------------------
+
+.pub-row {
+  display: block;
+  margin-bottom: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e4e4e4;
+
+  &:first-child {
+    border-top: none;
+    padding-top: 0;
+  }
+}
+
+// --------------------------------------------------
+// Category label (Journal Articles / Book Chapters)
+// --------------------------------------------------
+
+.pub-type {
+  font-size: 0.7rem;
+  color: #aaa;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 1.4rem;
+}
+
+// --------------------------------------------------
+// Individual publication entries
+// --------------------------------------------------
+
+.pub-list p {
+  margin-bottom: 1rem;
+  max-width: 660px; // line length for readability
+}
+
+.pubs a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-bottom-color: #333;
+  }
+}
+
+.pubs em {
+  color: #777;
+  font-style: italic;
+}
+
+// Year headings (the <strong> tags like 2026, 2025)
+.pubs strong {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #555;
+  margin-top: 1.6rem;
+  margin-bottom: 0.4rem;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
