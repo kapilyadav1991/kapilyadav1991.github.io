@@ -33,19 +33,13 @@
   display: block;
   margin-bottom: 2.8rem;
   padding-top: 1.4rem;
-  border-top: 1px solid #ddd;
-
-  &:first-child {
-    border-top: none;
-    padding-top: 0;
-  }
 }
 
 // ── Category label ───────────────────────────────────────
 .pub-type {
-  font-size: 0.68rem;
+  font-size: 0.72rem;
   color: #999;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 1.2rem;
 }
@@ -53,7 +47,7 @@
 // ── Publication entries ───────────────────────────────────
 .pub-list p {
   margin-bottom: 0.95rem;
-  max-width: 640px;
+  max-width: 820px;
 }
 
 // ── Year headings ─────────────────────────────────────────
