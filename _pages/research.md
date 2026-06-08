@@ -4,9 +4,6 @@ layout: single
 author_profile: false
 classes: wide
 ---
-
-
-
 <div class="cv-row">
 <div class="cv-label">Agrarian change<br>& fire</div>
 <div class="cv-body">
