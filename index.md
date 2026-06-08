@@ -24,20 +24,16 @@ header:
 
 #main .page__content {
   padding-top: 0 !important;
-  padding-left: 1em !important;
-  padding-right: 1em !important;
-  max-width: 1100px !important;
+  max-width: 1400px !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
-
 .intro-container {
-  display: flex;
-  align-items: stretch;
-  gap: 50px;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  column-gap: 70px;
   margin-top: 32px;
-  max-height: calc(100vh - 100px);
-  overflow: hidden;
+  align-items: start;
 }
 
 .intro-image {
