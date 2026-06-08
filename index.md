@@ -14,8 +14,6 @@ header:
 
 <div class="home-content">
 
-<h1>Kapil Yadav</h1>
-
 <p>
 My research is driven by a desire to better understand the social and natural world around me. I draw from political ecology and critical political economy to examine how colonialism and capitalism have shaped the crises we now inhabit — crises that are not only ecological but also deeply political and social.
 </p>
@@ -67,7 +65,7 @@ margin-bottom:1.2rem;
 }
 
 .home-content p {
-font-size:0.95rem;
+font-size:0.8rem;
 line-height:1.9;
 margin-bottom:1.1rem;
 max-width:700px;
