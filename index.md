@@ -10,11 +10,10 @@ header:
 <img src="/assets/images/profile.jpg">
 </div>
 <div class="intro-text">
-<p>I am a researcher of fire, though I question myself as a fire researcher.</p>
-<p>For me, fire is a lens through which I examine power, state-society relations, human-nature relations, and the science-policy interface. Fires are not moments of crisis or destruction; they also become a call to action, empowering certain actors and marginalising others. Those empowered to control fire are often driven by political and economic interests that can be overlooked if the focus is kept on fire itself.</p>
-<p>In this politics, I think from the side of marginalised forest-dwelling and urban communities — to ask questions about justice, about who bears the costs of fire and who benefits from its governance.</p>
-<p>In a way, fire is a companion for me as it helps me make sense of the world.</p>
-<p>My work sits across political ecology, critical agrarian studies, critical political economy, and environmental humanities. I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London and the Leverhulme Centre for Wildfires, Environment, and Society.</p>
+<p>My research is driven by a desire to better understand the social and natural world around me. I draw from political ecology and critical political economy to examine how colonialism and capitalism have shaped the crises we now inhabit — crises that are not only ecological but also deeply political and social.</p>
+<p>Fire is my companion in this enquiry. It is a lens through which I examine land politics, state-making, and the life-making practices of Indigenous Peoples and local communities. </p>
+<p>My empirical work is grounded in forest landscapes in the Uttarakhand Himalaya, India, and in the wildland–urban interface around Cape Town, South Africa.</p>
+<p>I am currently a Postdoctoral Research Associate in Fire, Livelihoods & Biodiversity at Royal Holloway, University of London.</p>
 </div>
 </div>
 
