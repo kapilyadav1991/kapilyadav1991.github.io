@@ -143,11 +143,22 @@
 }
 // ── Navigation alignment ─────────────────────────────
 
+.masthead__inner-wrap {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+}
+
 .greedy-nav {
   justify-content: flex-start !important;
 }
 
 .greedy-nav .visible-links {
+  justify-content: flex-start !important;
+  flex: none !important;
   margin-left: 0 !important;
   padding-left: 0 !important;
+}
+
+.site-nav {
+  justify-content: flex-start !important;
 }
