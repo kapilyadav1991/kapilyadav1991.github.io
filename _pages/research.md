@@ -5,22 +5,7 @@ author_profile: false
 classes: wide
 ---
 
-<div class="cv">
 
-<div class="cv-row">
-<div class="cv-label">Overview</div>
-<div class="cv-body">
-
-<p>
-My work sits across political ecology, agrarian studies, and environmental humanities. I am interested in how environmental crises are produced through historical and contemporary relations of power, and how people live with, contest, and rework these transformations in everyday life.
-</p>
-
-<p>
-Fire provides a central thread through much of my research. Through fire, I examine questions of state-making, agrarian change, commons governance, Indigenous and local stewardship, and the political economy of environmental management.
-</p>
-
-</div>
-</div>
 
 <div class="cv-row">
 <div class="cv-label">Agrarian change<br>& fire</div>
