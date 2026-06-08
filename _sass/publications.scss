@@ -141,3 +141,13 @@
   font-weight: 600;
   color: #111;
 }
+// ── Navigation alignment ─────────────────────────────
+
+.greedy-nav {
+  justify-content: flex-start !important;
+}
+
+.greedy-nav .visible-links {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
