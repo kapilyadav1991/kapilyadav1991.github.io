@@ -5,7 +5,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research Interests"
+  - title: "Research"
     url: /research/
 
   - title: "Publications"
@@ -13,3 +13,6 @@ main:
 
   - title: "Blog"
     url: /year-archive/
+    
+ - title: "Contact"
+    url: /contact/
