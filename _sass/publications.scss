@@ -85,24 +85,18 @@
 }
 
 // ── CV page ───────────────────────────────────────────────
+
 .cv {
-  font-size: 0.88rem;
-  line-height: 1.65;
-  color: #222;
+  max-width: 1050px;
+  margin-left: 0;
 }
 
 .cv-row {
   display: grid;
-  grid-template-columns: 130px 1fr;
-  gap: 0 2.5rem;
+  grid-template-columns: 200px 1fr;
+  gap: 0 3rem;
   margin-bottom: 2.4rem;
   padding-top: 1.4rem;
-  border-top: 1px solid #ddd;
-
-  &:first-child {
-    border-top: none;
-    padding-top: 0;
-  }
 
   @media (max-width: 600px) {
     grid-template-columns: 1fr;
