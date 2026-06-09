@@ -40,7 +40,7 @@ Indian Institute of Technology Bombay, 2007–2011
 <p>
 <strong>Postdoctoral Research Associate</strong><br>
 Department of Geography, Royal Holloway, University of London, Oct 2024–Present<br>
-Three-year Leverhulme fellowship. Research on fire, livelihoods, and biodiversity in India and South Africa.
+Research on fire, livelihoods, and biodiversity in India and South Africa.
 </p>
 
 <p>
