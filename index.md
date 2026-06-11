@@ -19,7 +19,7 @@ My research is driven by a desire to better understand the social and natural wo
 </p>
 
 <p>
-Fire is my companion in this enquiry. It is a lens through which I examine land politics, state-making, and the life-making practices of Indigenous Peoples and local communities.
+Fire is my companion in this enquiry. It is a lens through which I examine forest politics, state-making, environmental-agrarian change, and the life-making practices of Indigenous Peoples and local communities.
 </p>
 
 <p>
